@@ -61,8 +61,8 @@ See the [daily-logs/](daily-logs/) directory for detailed daily progress documen
 ## 📞 Contact
 
 - **GitHub**: [@jacobdcook](https://github.com/jacobdcook)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email]
+- **LinkedIn**: [jcook-dev](https://www.linkedin.com/in/jcook-dev/)
+- **Email**: jacobcookofficial@gmail.com
 
 ---
 
