@@ -60,6 +60,7 @@ See the daily-logs/ directory for detailed daily progress documentation.
 ## 🔗 Related Projects
 
 * [Career Development Tracker](https://github.com/jacobdcook/career-development-tracker) - Tool used to manage this learning journey
+* [Security+ Labs](https://github.com/jacobdcook/security-plus-labs) - Detailed lab documentation and hands-on exercises
 
 ## 📞 Contact
 
