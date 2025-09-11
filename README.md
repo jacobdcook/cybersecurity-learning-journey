@@ -45,13 +45,9 @@ Welcome to my cybersecurity learning journey! This repository documents my progr
 
 ### Lab Documentation
 
-Each lab includes:
-
-* Objective and learning goals
-* Step-by-step procedures
-* Screenshots of key steps
-* Key takeaways and insights
-* GitHub documentation
+* **Detailed lab documentation** is maintained in a separate repository
+* **This repository** focuses on daily progress tracking and learning journey updates
+* **Lab completion** is tracked here with brief summaries and key insights
 
 ## 🛠️ Skills Developed
 
@@ -68,7 +64,7 @@ See the daily-logs/ directory for detailed daily progress documentation.
 ## 🔗 Related Projects
 
 * [Career Development Tracker](https://github.com/jacobdcook/career-development-tracker) - Tool used to manage this learning journey
-* [Security+ Labs](https://github.com/jacobdcook/security-plus-labs) - Detailed lab documentation and hands-on exercises
+* **Detailed Lab Documentation** - Maintained in separate repository (detailed lab procedures, screenshots, and technical documentation)
 
 ## 📞 Contact
 
