@@ -36,6 +36,13 @@ Welcome to my cybersecurity learning journey! This repository documents my progr
   * Lab 7: Incident Response
   * **Resume**: ✅ Complete and optimized for cybersecurity roles
 
+* **Day 3 (Sept 10)**: ✅ Completed 3 labs + Video progress
+  * Lab 8: Digital Signatures
+  * Lab 9: SQL Injection
+  * Lab 10: Cross-Site Scripting (XSS)
+  * **Video Progress**: Reached video 42 in Professor Messer series
+  * **Total Labs**: 10/37 completed (27% complete)
+
 ### Lab Documentation
 
 Each lab includes:
@@ -48,10 +55,11 @@ Each lab includes:
 
 ## 🛠️ Skills Developed
 
-* **Cryptography**: Hash functions, PKI, digital certificates
+* **Cryptography**: Hash functions, PKI, digital certificates, digital signatures
 * **Network Security**: Firewalls, IDS/IPS, network monitoring
+* **Web Security**: SQL injection prevention, XSS mitigation, input validation
 * **Risk Management**: Vulnerability assessment, incident response
-* **Security Tools**: Various security software and utilities
+* **Security Tools**: Various security software and utilities, automated testing tools
 
 ## 📝 Daily Logs
 
