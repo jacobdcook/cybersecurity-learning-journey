@@ -52,7 +52,7 @@ Welcome to my cybersecurity learning journey! This repository documents my progr
   * Videos 40-43: Zero-day vulnerabilities, malware overview, viruses/worms, spyware/bloatware
   * Lab Activities: Zero-day research, system baseline, virus/worm detection, spyware detection, registry analysis, network analysis, malware detection
   * Video Progress: Reached video 43 in Professor Messer series
-  * Technical Details: Windows 10 Pro patch analysis (KB5063709), malware detection techniques, registry examination
+  * Technical Details: Windows 10 Pro patch analysis (KB5063709), malware detection techniques, registry examination, Windows Defender configuration
   * Note: While focused on other projects and career development during the break, this marks return to hands-on Security+ lab work
   * Status: Back to lab work, ready for Section 12
 
